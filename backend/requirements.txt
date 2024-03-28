@@ -1,0 +1,2 @@
+lionagi==0.0.312
+llama-index~=0.10.25
